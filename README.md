@@ -9,7 +9,7 @@
 
 My VS Code Theme: Atom One Dark               
 Reccomended VS Code plugins:
-- Better Comments (Helps a bit with comments writtin in source code)
+- Better Comments (Helps a bit with viewing comments written in source code)
 - Bracket Pair Colorizer 2
 - htmltagwrap
 - Tabnine AI Code Completion

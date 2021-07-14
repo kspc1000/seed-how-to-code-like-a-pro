@@ -5,8 +5,8 @@
 const person = "Stella"
 const age = 17;
 
-/* Bad string code */
+// Bad string code
 console.log(person + " is " + age + " years old");
 
-/* Good string code */
+// Good string code
 console.log(`${person} is ${age} years old`);
