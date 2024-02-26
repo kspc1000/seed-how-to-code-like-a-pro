@@ -1,4 +1,4 @@
-# How To Code Like A Pro
+# SEED - How To Code Like A Pro
 > These are files for your reference/revision                         
 > Each folder and file name is numbered to tell you the order of which you should view them                       
 > Some explanations have been provided in the form of comments                                                                
